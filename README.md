@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on E-commerce app<br>👯 I’m looking to collaborate on complex websites and mobile app<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Nextjs and backend development<br>💬 Ask me about fullstack development<br>
+👯 I’m looking to collaborate on complex websites and mobile app<br>🌱 I’m currently learning Nextjs and backend development<br>💬 Ask me about fullstack development<br>
 
 
 ## 🌐 Socials:
